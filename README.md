@@ -1,2 +1,2 @@
 # Torgash
-trade bot for DoraMarket and so on
+trade bot for DotaMarket and so on
